@@ -7,3 +7,6 @@
 
 ## Usage
 Run `node fnfChart [path to chart]` in your terminal
+
+## Compatibility Info
+It **SHOULD** work with Psych and Kade Engine charts
